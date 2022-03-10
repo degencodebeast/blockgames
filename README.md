@@ -1,6 +1,6 @@
 # blockgames
 Repository for the blockgames cohort
 
-## Contract address 
-0x767b39cd888871F4b9D4015Ea5d8a83F9549B085
+## Link to contract address 
 
+https://rinkeby.etherscan.io/address/0x767b39cd888871F4b9D4015Ea5d8a83F9549B085#code

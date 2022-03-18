@@ -1,4 +1,4 @@
-# blockgames
+# BLOCKGAMES
 Repository for the blockgames cohort
 
 ## WEEK ONE

@@ -1,12 +1,12 @@
 # BLOCKGAMES
 Repository for the blockgames cohort
 
-## WEEK ONE
+## TASK TWO
 ### Link to contract address 
 
 https://rinkeby.etherscan.io/address/0x767b39cd888871F4b9D4015Ea5d8a83F9549B085#code
 
-## WEEK TWO
+## TASK THREE
 
 ### Link to the ERC20 contract address
 https://mumbai.polygonscan.com/address/0xe5b567d4257b2a70f6103c506229c02a85690557#code
